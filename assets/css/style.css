@@ -3,6 +3,11 @@ body {
     font-family: Tahoma;
 }
 
+div {
+    padding: 30px 0px;
+    text-align: center;
+}
+
 p {
     margin: 10px auto;
     width: 980px;
