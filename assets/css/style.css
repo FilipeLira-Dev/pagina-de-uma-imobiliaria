@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+    font-family: Tahoma;
+}
+
+p {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
