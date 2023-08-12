@@ -16,3 +16,24 @@ p {
     line-height: 28px;
 }
 
+.secao1 {
+    background-color: #afddfb;
+}
+
+.logo {
+    width: 150px;
+}
+
+.paragrafo-link {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.paragrafo-link a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0px 10px;
+}
